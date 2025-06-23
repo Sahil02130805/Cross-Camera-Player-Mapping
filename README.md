@@ -3,7 +3,7 @@
 This project maps players across two different camera feeds (`broadcast.mp4` and `tacticam.mp4`) to assign **consistent player IDs** using YOLO-based object detection and Deep SORT tracking.
 
 > 🔍 Useful for sports analytics, coaching insights, and multi-angle game analysis.
-> install the Model from drive(https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1750663238331414%26amp;usg%3DAOvVaw1yPUy6V2F6JecGn1nUFVgS&sa=D&source=docs&ust=1750663238339833&usg=AOvVaw1pDwwXb7VzJ700MOP78Bir)
+install the Model from drive(https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1750663238331414%26amp;usg%3DAOvVaw1yPUy6V2F6JecGn1nUFVgS&sa=D&source=docs&ust=1750663238339833&usg=AOvVaw1pDwwXb7VzJ700MOP78Bir)
 
 ---
 
